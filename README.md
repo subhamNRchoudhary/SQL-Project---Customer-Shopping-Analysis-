@@ -1,1 +1,1 @@
-# SQL-Project---Customer-Shopping-Analysis-
+SQL-Project---Customer-Shopping-Analysis
